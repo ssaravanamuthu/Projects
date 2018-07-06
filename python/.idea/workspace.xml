@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gym.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gym.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gym.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -41,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="titanic dataset.csv " pinned="false" current-in-tab="false">
+      <file leaf-file-name="titanic dataset.csv " pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/titanic dataset.csv ">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2127">
@@ -125,6 +125,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="27" width="1400" height="795" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -149,20 +150,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/titanic dataset.csv ">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2127">
-          <caret line="1141" column="54" selection-start-line="1141" selection-start-column="54" selection-end-line="1141" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Titanic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
@@ -177,6 +164,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/titanic dataset.csv ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2127">
+          <caret line="1141" column="54" selection-start-line="1141" selection-start-column="54" selection-end-line="1141" selection-end-column="54" />
         </state>
       </provider>
     </entry>
